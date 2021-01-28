@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NG.Test", "NG.Test\NG.Test.csproj", "{645D35C5-183F-43CF-B34C-955A6AEE4096}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NG.LampeSchalterBibliothek", "NG.LampeSchalterBibliothek\NG.LampeSchalterBibliothek.csproj", "{E11308F5-4B8D-4F3F-864B-7FC12CA29F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11308F5-4B8D-4F3F-864B-7FC12CA29F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11308F5-4B8D-4F3F-864B-7FC12CA29F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11308F5-4B8D-4F3F-864B-7FC12CA29F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11308F5-4B8D-4F3F-864B-7FC12CA29F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
