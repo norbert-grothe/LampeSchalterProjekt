@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NG.Test", "NG.Test\NG.Test.csproj", "{645D35C5-183F-43CF-B34C-955A6AEE4096}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645D35C5-183F-43CF-B34C-955A6AEE4096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDD4568D-92CB-4901-843D-4D5D43D312A9}
+	EndGlobalSection
+EndGlobal
