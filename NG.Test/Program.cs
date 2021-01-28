@@ -10,6 +10,7 @@ namespace NG.Test
     {
         static void Main(string[] args)
         {
+            // Test der Änderung
         }
     }
 }
